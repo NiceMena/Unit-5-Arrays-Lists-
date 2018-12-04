@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\FindMaxValueNiceM\FindMaxValueNiceM\bin\Debug\FindMaxValueNiceM.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\FindMaxValueNiceM\FindMaxValueNiceM\bin\Debug\FindMaxValueNiceM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\FindMaxValueNiceM\FindMaxValueNiceM\bin\Debug\FindMaxValueNiceM.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\FindMaxValueNiceM\FindMaxValueNiceM\obj\Debug\FindMaxValueNiceM.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\FindMaxValueNiceM\FindMaxValueNiceM\obj\Debug\FindMaxValueNiceM.frmFindMaxValue.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\FindMaxValueNiceM\FindMaxValueNiceM\obj\Debug\FindMaxValueNiceM.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\FindMaxValueNiceM\FindMaxValueNiceM\obj\Debug\FindMaxValueNiceM.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\FindMaxValueNiceM\FindMaxValueNiceM\obj\Debug\FindMaxValueNiceM.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Mena, Nice (s407118)\Unit 5 (Arrays & Lists)\FindMaxValueNiceM\FindMaxValueNiceM\obj\Debug\FindMaxValueNiceM.pdb
